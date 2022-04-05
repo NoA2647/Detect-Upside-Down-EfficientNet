@@ -1,6 +1,6 @@
 # Detect-Upside-Down-EfficientNet
 
-Detect Upside Down fordogs image by EfficientNet.
+Detect Upside Down for dogs image by EfficientNet.
 
 You can use code with different dataset and it will work well.
 
